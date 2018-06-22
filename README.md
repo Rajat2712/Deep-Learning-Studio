@@ -1,5 +1,5 @@
 # Deep-Learning-Studio
-Deep Learning Studio is the first robust deep learning platform available in two versions (cloud and desktop) with a visual interface in production since January 2017. The platform provides a comprehensive solution to data ingestion, model development, training, deployment and management. Deep Learning Studio is developed by [Deep Cognition](http://deepcognition.ai) which is an AI software company that simplifies the process of developing and deploying Artificial Intelligence. AI Engineers, Data Scientists and researchers across the globe use their AI software platform, Deep Learning Studio, free of charge. By using Deep Learning Studio any one starting from a developer to an engineer or a researcher will acquire the ability to quickly develop and deploy deep learning solutions through robust integration with TensorFlow, MXNet and Keras.
+[Deep Learning Studio](http://deepcognition.ai/cloud/) is the first robust deep learning platform available in two versions (cloud and desktop) with a visual interface in production since January 2017. The platform provides a comprehensive solution to data ingestion, model development, training, deployment and management. Deep Learning Studio is developed by [Deep Cognition](http://deepcognition.ai) which is an AI software company that simplifies the process of developing and deploying Artificial Intelligence. AI Engineers, Data Scientists and researchers across the globe use their AI software platform, Deep Learning Studio, free of charge. By using Deep Learning Studio any one starting from a developer to an engineer or a researcher will acquire the ability to quickly develop and deploy deep learning solutions through robust integration with TensorFlow, MXNet and Keras.
 
 In Deep Learning Studio pre-trained models as well as use built-in assistive features simplify and accelerate the model development process. One can import model code and edit the model with the visual interface. The platform automatically saves each model version as one iterates and tunes hyper-parameters to improve performance. One can compare performance across versions to find their optimal design.
 
@@ -11,3 +11,10 @@ In Deep Learning Studio pre-trained models as well as use built-in assistive fea
 3) [Deep Learning made easy with Deep Learning Studio — Complete Guide](https://towardsdatascience.com/deep-learning-made-easy-with-deep-learning-studio-complete-guide-a5c5ae58a771)
 4) [How to Win a Deep Learning Competition - Without Coding](https://medium.com/@rgrgrajat1/how-to-win-a-deep-learning-competition-without-coding-e1e7230efb46)
 5) [Diabetes Prediction with Deep Learning Studio: A Different approach towards Deep Learning](https://medium.com/p/d5cd0df5af01/edit)
+
+Thank you for your attention
+You are using your time to read my work means the world to me. I fully mean that.
+If you liked this repo, give it a star! It will help other people to find my work.
+
+Also, follow me on [Medium](https://medium.com/@rgrgrajat1) , [Linkedin](https://www.linkedin.com/in/rajat2712/) if you want to! I would love that.
+You can also checkout my [professional portfolio website](http://rajatgupta.me) 

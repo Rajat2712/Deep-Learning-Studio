@@ -10,7 +10,7 @@ In Deep Learning Studio pre-trained models as well as use built-in assistive fea
 2) [Deep Learning made easy with Deep Learning Studio — An Introduction](https://towardsdatascience.com/deep-learning-made-easy-with-deep-learning-studio-an-introduction-18606a67f198)
 3) [Deep Learning made easy with Deep Learning Studio — Complete Guide](https://towardsdatascience.com/deep-learning-made-easy-with-deep-learning-studio-complete-guide-a5c5ae58a771)
 4) [How to Win a Deep Learning Competition - Without Coding](https://medium.com/@rgrgrajat1/how-to-win-a-deep-learning-competition-without-coding-e1e7230efb46)
-5) [Diabetes Prediction with Deep Learning Studio: A Different approach towards Deep Learning](https://medium.com/p/d5cd0df5af01/edit)
+5) [Diabetes Prediction with Deep Learning Studio: A Different approach towards Deep Learning](https://medium.com/@rgrgrajat1/diabetes-prediction-with-deep-learning-studio-a-different-approach-towards-deep-learning-d5cd0df5af01)
 
 Thank you for your attention
 You are using your time to read my work means the world to me. I fully mean that.

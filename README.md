@@ -13,6 +13,7 @@ In Deep Learning Studio pre-trained models as well as use built-in assistive fea
 5) [Diabetes Prediction with Deep Learning Studio: A Different approach towards Deep Learning](https://medium.com/@rgrgrajat1/diabetes-prediction-with-deep-learning-studio-a-different-approach-towards-deep-learning-d5cd0df5af01)
 6) [Why “Not-MNIST” with Deep Learning Studio](https://medium.com/@rgrgrajat1/why-not-mnist-with-deep-learning-studio-6e7ec4e1450d)
 7) [Sentence Classification using CNN with Deep Learning Studio](https://towardsdatascience.com/sentence-classification-using-cnn-with-deep-learning-studio-fe54eb53e24)
+8) [Detecting Pneumonia with Deep Learning Studio](https://towardsdatascience.com/detecting-pneumonia-with-deep-learning-studio-a1bd39ef1923)
 
 Thank you for your attention
 You are using your time to read my work means the world to me. I fully mean that.

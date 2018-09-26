@@ -14,7 +14,12 @@ In Deep Learning Studio pre-trained models as well as use built-in assistive fea
 6) [Why “Not-MNIST” with Deep Learning Studio](https://medium.com/@rgrgrajat1/why-not-mnist-with-deep-learning-studio-6e7ec4e1450d)
 7) [Sentence Classification using CNN with Deep Learning Studio](https://towardsdatascience.com/sentence-classification-using-cnn-with-deep-learning-studio-fe54eb53e24)
 8) [Detecting Pneumonia with Deep Learning Studio](https://towardsdatascience.com/detecting-pneumonia-with-deep-learning-studio-a1bd39ef1923)
-
+9) [Stock Prediction with Deep Learning Studio](https://towardsdatascience.com/stock-prediction-with-deep-learning-studio-545c28fddf5)
+10) [Plant Seedlings Classification with Deep Learning Studio](https://medium.com/coinmonks/plant-seedlings-classification-with-deep-learning-studio-625bc3aebb17)
+11) [Classifying Blood Cell Images with Deep Learning Studio](https://towardsdatascience.com/classifying-blood-cell-images-with-deep-learning-studio-9695cf0daa7b)
+12) [Age Detection of Indian Actors with Deep Learning Studio](https://towardsdatascience.com/age-detection-of-indian-actors-with-deep-learning-studio-da10bc91fc57)
+13) [Colorize your black & white world with Deep Learning Studio](https://towardsdatascience.com/colorize-your-black-white-world-with-deep-learning-studio-cee66d35b9ff)
+14) [Recognition of Action in Video with Deep Learning Studio](https://medium.com/@rgrgrajat1/recognition-of-action-in-video-with-deep-learning-studio-9ffad2283080)
 Thank you for your attention
 You are using your time to read my work means the world to me. I fully mean that.
 If you liked this repo, give it a star! It will help other people to find my work.

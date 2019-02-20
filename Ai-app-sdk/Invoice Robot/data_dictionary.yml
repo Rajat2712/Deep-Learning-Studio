@@ -1,0 +1,130 @@
+VERSION: 2
+
+VNDINFO:
+  DISPLAY_SHORT_NAME: Vendor Information
+  FIELDS:
+    VNDN:
+      DISPLAY_SHORT_NAME: Vendor Name
+      LABEL_GENERATOR:
+        REGEX: '(From:|)'
+      VAL_GENERATOR:
+        FUNC: CompanyName
+      TYPE:  ALPHANUMERIC
+      IS_PREVIEW: true
+
+    VNDA:
+      DISPLAY_SHORT_NAME: Vendor Address
+      LABEL_GENERATOR:
+        REGEX: '(invoice|bill|INV|Invoice|Inv) (#|No|No\.|ID|Number) (|:)'
+      VAL_GENERATOR:
+        FUNC: Address
+      TYPE:  STRING
+      MAX_PARTS: 3
+
+BASICINFO:
+  DISPLAY_SHORT_NAME: Basic Information
+  FIELDS:
+    INVN:
+      DISPLAY_SHORT_NAME: Invoice number
+      LABEL_GENERATOR:
+        REGEX: '(invoice|bill|INV|Invoice|Inv) (#|No|No\.|ID|Number) (|:)'
+      VAL_GENERATOR:
+        FUNC: AlphaNumeric
+      TYPE:  ALPHANUMERIC
+      IS_PREVIEW: true
+
+    INVD:
+      DISPLAY_SHORT_NAME: Invoice date
+      LABEL_GENERATOR:
+        REGEX: '(invoice|bill|INV|Invoice|Inv|Bill|) (Date)(:| :|)'
+      VAL_GENERATOR:
+        FUNC: Date
+      TYPE:  DATE
+
+
+    NBD:
+      DISPLAY_SHORT_NAME: Next Billing Date
+      LABEL_GENERATOR:
+        REGEX: ''
+      VAL_GENERATOR:
+        FUNC: Date
+      TYPE:  DATE
+      IS_PREVIEW: true
+
+    TA:
+      DISPLAY_SHORT_NAME: Total Amount
+      LABEL_GENERATOR:
+        REGEX: '(Total (|Amount |Balance )(|Due)|(Invoice | Grand | Amount) (Total|total))(:| :|)'
+      VAL_GENERATOR:
+        FUNC: Amount
+      TYPE:  ALPHANUMERIC
+      IS_PREVIEW: true
+    AD:
+      DISPLAY_SHORT_NAME: Amount Due
+      LABEL_GENERATOR:
+        REGEX: '(Total (|Amount |Balance )(|Due))(:| :|)'
+      VAL_GENERATOR:
+        FUNC: Amount
+      TYPE:  ALPHANUMERIC
+      IS_PREVIEW: true
+
+    BP:
+      DISPLAY_SHORT_NAME: Billing Period
+      LABEL_GENERATOR:
+        REGEX: ''
+      VAL_GENERATOR:
+        FUNC: Date2
+      TYPE:  DATE
+      IS_PREVIEW: true
+    PDATETIME:
+      DISPLAY_SHORT_NAME: Payment Date Time
+      LABEL_GENERATOR:
+        REGEX: ''
+      VAL_GENERATOR:
+        FUNC: Date
+      TYPE:  DATE
+      IS_PREVIEW: true
+
+
+SHIPNFO:
+  DISPLAY_SHORT_NAME: Shipping Information
+  FIELDS:
+    SHPN:
+      DISPLAY_SHORT_NAME: Ship to Name
+      LABEL_GENERATOR:
+        REGEX: ''
+      VAL_GENERATOR:
+        FUNC: Name
+      TYPE:  STRING
+    SHCN:
+      DISPLAY_SHORT_NAME: Ship to Company Name
+      LABEL_GENERATOR:
+        REGEX: '(Ship To|Consignee)(:|)'
+      VAL_GENERATOR:
+        FUNC: CompanyName
+      TYPE:  STRING
+
+    SHPA:
+      DISPLAY_SHORT_NAME: Ship to address
+      LABEL_GENERATOR:
+        REGEX: ''
+      VAL_GENERATOR:
+        FUNC: Address
+      TYPE:  STRING
+      MAX_PARTS: 2
+
+    SHPP:
+      DISPLAY_SHORT_NAME: Ship to phone
+      LABEL_GENERATOR:
+        REGEX: '(Phone|Tel|Telephone|Cell|Mobile)(:| :|)'
+      VAL_GENERATOR:
+        FUNC: Phone
+      TYPE:  PHONE
+
+    SHCI:
+      DISPLAY_SHORT_NAME: Customer Id
+      LABEL_GENERATOR:
+        REGEX: '(Customer Id|Id)( :|) '
+      VAL_GENERATOR:
+        FUNC: Number
+      TYPE:  Number

@@ -1,0 +1,2 @@
+ETA,cur_epoch,epochs,epoch_time,cur_batch,batches,batch_time,loss,acc,val_loss,val_acc,train_status
+00:00:00,600,600,14,50,50,0,0.000176,0.999981,0.000291,0.99991,Completed
